@@ -1,0 +1,84 @@
+‘Selling a Put’ is an obligation to buy the underlying security from the option buyer if they exercise the option. The options are full of volatility itself as its price depends on the underlying asset value.
+
+
+It is not an easy task to find a sustainable pattern to buy or sell when trading options. But machine learning can help you to a great extent to identify profitable options with an impressive accuracy rate.
+
+Machine Learning (ML) is the fundamental of Artificial Intelligence (AI). Machine learning applications work on data and provide insightful information. They leverage algorithms from data and specific inputs. It is the trading algorithm that finds correlation and patterns from a huge number of data sets. It will surely help you to find the right time to sell your securities.
+
+The ML process starts when we enter the training data and specific inputs into the selected algorithm to develop the final Machine Learning algorithm.
+
+Then we need to check whether this algorithm works correctly or not. If not, then new input data is entered into the Machine Learning algorithm.
+
+If the desired output is not as expected, the algorithm is re-trained many times. It enables the Machine Learning algorithm to produce the most optimal answer. In this way, it learns continuously on its own, and accuracy increases over time.
+
+Undoubtedly this machine learning trading algorithm is very useful and you can use it to identify the profitable puts to sell in trading options. AlphaBot is well known for its proficiency in systematic strategies to manage trading by thorough data analysis and machine learning. Trading Algorithms can help to a great extent to make you a successful trader.
+
+To decide the best time to sell a put, you should have patience and an understanding of the risks and rewards in the long run. Automated Algo Trading can decide for you when to buy or sell easily.
+
+
+-----
+
+Of course you can. Get your hands on all of those trade tick and trade log data, specify your hold time to identify your training labels, then start dreaming up what kind of features you think are predictive.
+
+If you figure something out, let's talk.
+
+
+---
+
+
+Yes, you can definitely use machine learning to identify profitable trades. It can be used not just for identifying puts to sell, but for almost every possible trade combination.
+
+However, you need loads of loads of historical real time data for your system to sift through. Then, you need to program patterns which you think are profitable. Those patterns need to be incorporated into the system to identify possible profitable opportunities during real time.
+
+You need to run multiple and iterative simulated tests to get the perfection out of the system. Robust backtesting with minimal standard deviations is essential.
+
+The system needs to be designed in such a way as to not just identify the trades, but also to execute the trades as and when the opportunity pops up.
+
+Down the line, for me, first and last steps are the most difficult one. I mean gathering of reliable historic data and executing the realtime trade.
+
+
+---
+
+
+My credentials. I have been trading stocks since 1989. After studying Computer Engineering at UNAM in Mexico I have worked 25 years at financial institutions there, in Spain and South America. I began trading with automated strategies in 1998. In 2013 left a Bank and founded a Start-Up, GAANNA, where the last two years attained a significant proven track record on real money, trading financial markets around the world. I have 28 years of experience playing with Genetic Algorithms & Neural Network Applications; hence the acronym of my startup: GAANNA. I broke myself twice & lost my marriage because this is a challenging and hazardous road. Let me candidly and humbly share lessons learned during this magnificent voyage.
+
+Feeling succes was at hands reach, with almost three decades of experience, I founded and got funded Gvolution LTD, a London based Hedge Fund in 2015, just to see it blow up during Brexit due to lack of adherence to our own trading rules; since then I have kept human intervention to almost ZERO.
+
+Lesson One: Do not allow any Human Bias and please do not ever employ human traders in any segment of your operating cycle. Keep order routing fully automated and 100% electronic. Our AI performs all trading decisions.
+
+Lesson Two: You have to leave the creation of new and better trading algorithms to another algorithm, that is: no human being can keep up with the pace of change of modern markets: so rapidly and continuously evolving. Our core AI is a machine learning that regularly creates synthetic Trading Agents (TA’s) using Neural Networks and Genetic Algorithms. No strategy, algorithm or TA will hold good performance forever, trading strategies tend to decay over time, some faster than others. Some have a good run, fall from grace for a period and then retake virtuosity.
+
+For these reasons another AI takes care of the continuous evaluation of all our Trading Algorithms providing a generous feedback for the Machine Learning process: we have hundreds of thousands Trading Agents based on a massive amount of Trading Algorithms. Services like Quantopian have some thousands of humans developing trading strategies on their own: I think is better to let "her" (our AI) create and learn from every one of the hundreds of thousands of TA’s she creates, performing in real life.
+
+Lesson Three: do not use CAPM or Markowitz Theory on your foundation. Simply take a look at the performance of traditional Hedge Funds, and you will see that investing based on optimal correlation and efficient frontiers worked well in the 1970's. Not anymore. Create a new animal.
+
+Lesson Four: Do not trade intra-day or with high levels of leverage. UHF algorithms will eat you alive, fast and furious regime changes in volatility will sink your vessel.
+
+Lesson Five: Do not sell signals, courses or licence your technology if you reach a fruitful and mature level of automated trading, you will lose focus. Manage Assets only. Then manage your own assets only.
+
+Lesson Six: Develop a rigorous back-testing process. Do not use off the shelf products to backtest your strategies: I think there is no way to produce a meaningful trading strategy if you do not understand how to backtest it appropriately and thoughtfully. Do not take shortcuts here.
+
+Lesson Seven: Use only clean, professionally curated Market Data. Survivorship bias prevention of data is essential. Free is cheap and produces cheap results.
+
+Finally, two warnings:
+
+I - Money changes people: little produces little changes, large changes large, and If you have character flaws, addictions and/or obsessions sadfully for the worst. Money will only amplify them. Have yourself together; or getting there, to the large money, will tear you up with your suposedly loyalties and beloved ones.
+
+II - Like a Curse, once your results start being frankly exceptional and consistent doubters, naysayers and haters will grow like the plague. Overwhelmed by frustration finally understood that as human as my clients are, this was a fundamental business model complexity that had to be solved. Unless you are well-known and a recognised Wall Street Quant Elite, nobody will ever believe you, no matter how audited, proven or true your track record is. My advice: let mouth to mouth be your brand recognition. The money will flow eventually, and Peace will begin to fill your mind, that is the true prize.
+
+Dont lose yourself!
+
+Best wishes in your endeavors
+
+Oct 16 2017 : Visiting my daughter in Boston where she is attending College at BU. MIT at the foreground. Intelligent life really abounds in Boston. Take a look at #loslibrosdelpug on Twitter where I post nowadays under “pugtrader”
+
+
+
+----
+
+
+reference
+
+https://www.tidy-finance.org/option-pricing-via-machine-learning.html#:~:text=Machine%20learning%20(ML)%20is%20seen,explicitly%20programmed%20to%20do%20so.
+
+
